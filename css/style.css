@@ -266,7 +266,7 @@ a:hover {
 }
 
 /* Media query for light color scheme */
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
     body {
         --bg-color: #121212;
         --text-color: #e0e0e0;
